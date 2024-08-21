@@ -1,4 +1,5 @@
-'''	main.py
+'''	csv_grapher
+	main.py
 	author: FrankenMullet
 	
 	CLI interface for performing functions on loaded CSV files '''
